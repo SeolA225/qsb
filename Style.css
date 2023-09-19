@@ -2,21 +2,21 @@ body {
     margin: 0;
   }
   
-  body .index1 .box {
+  body .index .box {
     background-color: #f0e5cf;
     margin: 0 auto;
     width: 1000px;
     height: 700px;
   }
   
-  body .index1 .box .zzz {
+  body .index .box .zzz {
     padding-top: 100px;
     display: flex;
     align-items: center;
     justify-content: space-around;
   }
   
-  body .index1 .box .zzz a {
+  body .index .box .zzz a {
     font-size: 30px;
     color: #000;
     text-decoration: none;
